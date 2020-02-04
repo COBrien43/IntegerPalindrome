@@ -17,4 +17,18 @@ public class PalindromeCheckerTests {
         PalindromeChecker palindromeChecker = new PalindromeChecker();
         palindromeChecker.checksPalindrome(1234);
     }
+
+    @Test
+    void testToCheckZeroIsAPalindrome(){
+        PalindromeChecker palindromeChecker = new PalindromeChecker();
+        palindromeChecker.checksPalindrome(0);
+        assertTrue(true, palindromeChecker.reversedPalindrome);
+    }
+
+    @Test
+    void testToCheckMinusNumbersAreFalse(){
+        PalindromeChecker palindromeChecker = new PalindromeChecker();
+        palindromeChecker.checksPalindrome(-1001);
+        assertFalse(false, palindromeChecker.reversedPalindrome);
+    }
 }
