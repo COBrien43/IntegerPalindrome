@@ -8,6 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        PalindromeChecker palindromeChecker = new PalindromeChecker();
+        palindromeChecker.checksPalindrome(1001);
     }
 }
