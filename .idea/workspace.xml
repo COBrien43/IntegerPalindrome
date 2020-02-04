@@ -34,7 +34,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="JUnit.PalindromeCheckerTests.testToCheckMinusNumbersAreFalse">
+  <component name="RunManager" selected="JUnit.PalindromeCheckerTests">
     <configuration name="PalindromeCheckerTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="IntegerPalindrome" />
       <extension name="coverage">
@@ -84,9 +84,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PalindromeCheckerTests" />
         <item itemvalue="JUnit.PalindromeCheckerTests.testToCheckMinusNumbersAreFalse" />
         <item itemvalue="JUnit.PalindromeCheckerTests.testToCheckZeroIsAPalindrome" />
-        <item itemvalue="JUnit.PalindromeCheckerTests" />
       </list>
     </recent_temporary>
   </component>
@@ -104,22 +104,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1580838717736">
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1580838888447">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1580838717736" />
-    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1580838717736">
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1580838888447" />
+    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1580838888447">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1580838717736" />
-    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1580838717736">
+    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1580838888447" />
+    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1580838888447">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1580838717736" />
-    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1580838717736">
+    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1580838888447" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1580838888447">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1580838717736" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1580838888447" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/IntegerPalindrome$PalindromeCheckerTests.ic" NAME="PalindromeCheckerTests Coverage Results" MODIFIED="1580837411734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

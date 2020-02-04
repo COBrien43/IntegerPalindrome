@@ -10,12 +10,14 @@ public class PalindromeCheckerTests {
     public void testToCheckAPalindromeReturnsTrue(){
         PalindromeChecker palindromeChecker = new PalindromeChecker();
         palindromeChecker.checksPalindrome(1001);
+        assertTrue(true, palindromeChecker.reversedPalindrome);
     }
 
     @Test
     void testToCheckAPalindromeReturnsFalse(){
         PalindromeChecker palindromeChecker = new PalindromeChecker();
         palindromeChecker.checksPalindrome(1234);
+        assertFalse(false, palindromeChecker.reversedPalindrome);
     }
 
     @Test
